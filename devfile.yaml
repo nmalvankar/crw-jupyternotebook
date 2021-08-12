@@ -4,5 +4,5 @@ components:
   - type: cheEditor
     reference: >-
       https://eclipse-che.github.io/che-plugin-registry/main/v3/plugins/ws-skeleton/jupyter/latest/meta.yaml
-    alias: aditor
+    alias: jupyter-nb
 apiVersion: 1.0.0

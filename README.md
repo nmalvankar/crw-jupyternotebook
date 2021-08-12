@@ -3,4 +3,4 @@ A Jupyter++ app composed of
 - HelloWorld
 
 
-To run this demo: [![Contribute](factory-contribute.svg)](https://codeready-codeready-workspaces.apps.cluster-16f2.16f2.example.opentlc.com/factory?url=https://github.com/nmalvankar/crw-jupyternotebook)
+To run this demo: [![Contribute](factory-contribute.svg)](https://codeready-openshift-workspaces.apps.cluster-e488.e488.sandbox1272.opentlc.com/factory?url=https://github.com/nmalvankar/crw-jupyternotebook)

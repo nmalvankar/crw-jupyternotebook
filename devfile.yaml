@@ -3,6 +3,6 @@ metadata:
 components:
   - type: cheEditor
     reference: >-
-      https://raw.githubusercontent.com/eclipse/che-plugin-registry/master/v3/plugins/ws-skeleton/jupyter/5.7.0/meta.yaml
+      https://eclipse-che.github.io/che-plugin-registry/main/v3/plugins/ws-skeleton/jupyter/latest/meta.yaml
     alias: aditor
 apiVersion: 1.0.0
